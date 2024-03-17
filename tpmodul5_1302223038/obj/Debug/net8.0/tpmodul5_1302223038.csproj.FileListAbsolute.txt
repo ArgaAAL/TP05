@@ -1,0 +1,15 @@
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\bin\Debug\net8.0\tpmodul5_1302223038.exe
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\bin\Debug\net8.0\tpmodul5_1302223038.deps.json
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\bin\Debug\net8.0\tpmodul5_1302223038.runtimeconfig.json
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\bin\Debug\net8.0\tpmodul5_1302223038.dll
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\bin\Debug\net8.0\tpmodul5_1302223038.pdb
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.GeneratedMSBuildEditorConfig.editorconfig
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.AssemblyInfoInputs.cache
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.AssemblyInfo.cs
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.csproj.CoreCompileInputs.cache
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.sourcelink.json
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.dll
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\refint\tpmodul5_1302223038.dll
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.pdb
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\tpmodul5_1302223038.genruntimeconfig.cache
+C:\AAL\TP\KPL\TP5\tpmodul5_1302223038\tpmodul5_1302223038\obj\Debug\net8.0\ref\tpmodul5_1302223038.dll
